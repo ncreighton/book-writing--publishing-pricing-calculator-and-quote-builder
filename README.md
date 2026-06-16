@@ -1,2 +1,25 @@
-# book-writing--publishing-pricing-calculator-and-quote-builder
-Dynamic pricing, tiered packages, discount logic, and branded quote PDFs. Close deals faster with instant accurate quotes.
+# Book Writing & Publishing Pricing Calculator and Quote Builder
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqeVdcLlgaU6xyavOd0r0e)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqeVdcLlgaU6xyavOd0r0e)
+
